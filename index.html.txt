@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Albobot</title>
+    <link rel="stylesheet" href="style.css"> <!-- Link to the CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Welcome to Albobot!</h1>
+        <p>Your personal assistant bot for your Discord server</p>
+    </header>
+    <main>
+        <section id="features">
+            <h2>Features</h2>
+            <ul>
+                <li>Automated Commands</li>
+                <li>Customizable Settings</li>
+                <li>Bot Dashboard</li>
+                <li>And more...</li>
+            </ul>
+        </section>
+        <section id="invite">
+            <h2>Invite Albobot to Your Server</h2>
+            <p>Click the button below to invite Albobot to your Discord server:</p>
+            <button onclick="window.location.href='YOUR_INVITE_LINK'">Invite Albobot</button>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Albobot. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script> <!-- Link to the JavaScript file -->
+</body>
+</html>
